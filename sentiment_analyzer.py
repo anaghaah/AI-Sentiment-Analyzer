@@ -59,6 +59,5 @@ plt.xlabel('Sentiment Category')
 plt.ylabel('Number of Reviews')
 plt.xticks(rotation=0) # Keeps labels horizontal
 plt.grid(axis='y', linestyle='--')
-plt.show() # This displays the final chart!
-
+plt.savefig('sentiment_chart.png')
 print("--- Analysis Complete: A bar chart has been generated! ---")

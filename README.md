@@ -1,0 +1,1 @@
+![Sentiment Distribution Chart](sentiment_chart.png)
